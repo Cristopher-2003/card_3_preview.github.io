@@ -185,6 +185,9 @@ body{
     .paragraph_card{
         padding-bottom: 50px;
      }
+     .btn_card{
+        width: 50%;
+    }
     
 
 }
